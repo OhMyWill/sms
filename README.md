@@ -1,4 +1,6 @@
-# SpamWa2pkg install update && pkg install upgrade -y
+# SpamWa2
+
+pkg install update && pkg install upgrade -y
 
 pkg install python -y
 
